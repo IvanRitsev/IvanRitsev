@@ -7,10 +7,12 @@
 
 ### Socials
 <div id="badges">
-  <a href="https://www.linkedin.com/in/stefan-topalovic-dev/">
-    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)" alt="LinkedIn Badge"/>
+  <a href="https://t.me/xaferonyan">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+
+
 
 <!---
 IvanRitsev/IvanRitsev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
